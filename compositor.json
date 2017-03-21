@@ -48,6 +48,13 @@
           "user": "nsmsn",
           "repo": "WebDevRead"
         }
+      ],
+      "text": "",
+      "links": [
+        {
+          "href": "",
+          "text": ""
+        }
       ]
     },
     {
@@ -66,7 +73,11 @@
         },
         {
           "href": "https://github.com/nsmsn",
-          "text": "nsmsn"
+          "text": "GitHub.com/nsmsn"
+        },
+        {
+          "href": "https://twitter.com/nsmsn",
+          "text": "@nsmsn on Twitter"
         }
       ]
     }
