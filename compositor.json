@@ -34,15 +34,6 @@
   },
   "content": [
     {
-      "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/nsmsn/WebDevRead",
-          "text": "GitHub"
-        }
-      ]
-    },
-    {
       "component": "header",
       "heading": "WebDevRead",
       "subhead": "A web development reading diary",
