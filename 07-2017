@@ -1,0 +1,17 @@
+## Accessibility
+We saw it with Flexbox a few years ago, and are seeing it again with Grid. [Alistair Campbell with a timely post](https://alastairc.ac/2017/06/the-responsive-order-conflict/) on the DOM order and keyboard focus order of using CSS layout to rearrange contents in responsive designs
+
+Hugo Giraudel on using our toolkits responsibly, and the times when [you might need javascript](https://hugogiraudel.com/2016/10/13/you-might-need-javascript/)
+
+## Design Patterns
+[Designing the Perfect Accordion](https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/) by Vitaly Friedman. A deep dive into all the components and code that go into the now ubiquitous responsive accordion widget
+
+Heydon Pickering's new [Inclusive Components](https://inclusive-components.design/) blog is also a worthy deep-dive read. Check out his exhaustive [Menus and Menu buttons](https://inclusive-components.design/menus-menu-buttons/) post which goes into all the challenges context throws into making accessible navigations on the web.
+
+[Designing Inspired Style Guides](https://stuffandnonsense.co.uk/blog/about/designing-inspired-style-guides-presentation-slides-and-transcript), a presentation written as a blog post by Andy Clarke.
+
+## Professionalism
+“It isn’t your fault, but it is your problem” may be the best advice I've read in a long time. Rachel Andrew has spent the last five years engaged in and teaching the new CSS Grid Layout spec. Now she finds herself again consoling web developers on adjusting to changing technologies. 
+
+## Social Design
+[Dick & Rick: A Visual Primer for Social Impact Design](http://welcometocup.org/Projects/TechnicalAssistance/DickRick), by the Center for Urban Pedagogy. A great Dick and Jane / Goofus and Gallant send up about collaborative space making and designing for disadvantaged, working class, or regular, non designer people.
